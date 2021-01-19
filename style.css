@@ -1,4 +1,7 @@
 marquee{
   background-color: gray;
   color: red;
+  font-size: 35px;
+  height: 40px;
+  padding: 25px;
 }
